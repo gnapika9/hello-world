@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# Gnapika
+I'm currently persuing my masters at UMD 
